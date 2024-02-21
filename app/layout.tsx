@@ -1,5 +1,5 @@
 import { Header } from "@/src/feature/layout/Header";
-import { Footer } from "@/src/theme/Footer";
+import { Footer } from "@/src/feature/layout/Footer";
 import { ThemeProvider } from "@/src/theme/ThemeProvider";
 import clsx from "clsx";
 import type { Metadata } from "next";
